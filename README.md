@@ -1,2 +1,2 @@
 # IOTpython
-Contains the code base of DESD
+Contains the code base of DESD IOT Python
